@@ -21,8 +21,9 @@ tips
   1. 强调现在正在发生的事情，所以大多数情况下是描述动作。
      
  ### present perfect
--形式 have/has +past participle
+-形式 have/has +past participle（助动词have 表示完成时态 done为完成时态的动词形式）
 - we use present perfect for an action in the past with a result now.
+- 介词for,since 描述的时间是从过去的某时间点到现在。since描述的时过去某时间点到现在，for描述的时从过去那个时间点到现在的总时间。这两个强调的都是完成时这个概念。
 
 
 
@@ -35,6 +36,21 @@ tips
 ### past continuous
 - was/were +doing
 - 强调过去发生的某个动作，通常跟时间。 at xxx我在干嘛
+
+
+
+
+
+### tips
+- 构成规律
+1. A.simple 不需要借用助动词构成。  B.continuous 需要用助动词be，且动词形式要用ing  C.perfect 需要用助动词hava， 且动词形式要用done
+2. 时间则使用谓语结构中的第一个词的变形表示。像过去式只有一个的，就不能表示数。
+
+
+
+
+
+
 # part2
 
 ## 谓语动词数的变化
@@ -42,8 +58,8 @@ tips
 
 - 需要借助助动词来完成。若句中本身就包含了助动词那么直接在助动词后加not，否则需要借助助动词do。
 - present simple, present continuous,past simple,past countinuos.
-  *其中，进行时态本身就含有助动词be，所以直接用be就好了。*
-  *而不用be动词的一般时使用的是单个动词的变形，所以需要借助助动词do*
+  1. 其中，进行时态本身就含有助动词be，所以直接用be就好了。
+  1. 而不用be动词的一般时使用的是单个动词的变形，所以需要借助助动词do
   在上述四个时态的否定句中，助动词包含了时间和主语的数（当然do的过去式只有一个，所以不能表示数），谓语动词则表示这状态（一般或者进行）
 
 
