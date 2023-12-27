@@ -8,7 +8,7 @@ tips
 # part1
 ## present
 ### present simple 
-- 形式单个动词
+- 形式:单个动词
 - we use the present simple for things that are true in general or for things that happen sometimes or all the time.
 - present simple 强调的是当下的某种状态。
   1. 当遇到需要描述某件事物的属性的时候，使用系动词。最常用的是be动词
@@ -16,24 +16,13 @@ tips
   
 
 ### present continuous
-- 形式 am/is/are+doing（助动词be，主要用于构成进行时和被动语态）-
+- 形式:am/is/are+doing（助动词be，主要用于构成进行时和被动语态）-
 -  something is happen now.
   1. 强调现在正在发生的事情，所以大多数情况下是描述动作。
-
-
-```
-辨析
-present simple 和 present continuous
-前者是强调 近段时间经常发生的事，或者是存在的状态
-后者则是强调 当前时间点发生的动作
-they are teacher,they aren't teaching.
-```
-
+     
  ### present perfect
 -形式 have/has +past participle
 - we use present perfect for an action in the past with a result now.
-  
-
 
 
 
@@ -46,18 +35,16 @@ they are teacher,they aren't teaching.
 ### past continuous
 - was/were +doing
 - 强调过去发生的某个动作，通常跟时间。 at xxx我在干嘛
-```
-辨析
-past simple 和past continuous
-前者强调事情做完了，做过了。
-后者则是强调那个事件在过去的某时间点正在发生
-```
-
-
 # part2
 
 ## 谓语动词数的变化
+## 否定句（疑问句变形和否定句一样）
 
+- 需要借助助动词来完成。若句中本身就包含了助动词那么直接在助动词后加not，否则需要借助助动词do。
+- present simple, present continuous,past simple,past countinuos.
+  *其中，进行时态本身就含有助动词be，所以直接用be就好了。*
+  *而不用be动词的一般时使用的是单个动词的变形，所以需要借助助动词do*
+  在上述四个时态的否定句中，助动词包含了时间和主语的数（当然do的过去式只有一个，所以不能表示数），谓语动词则表示这状态（一般或者进行）
 
 
 
