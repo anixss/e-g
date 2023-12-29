@@ -48,6 +48,14 @@ tips
 
 
 
+## future 
+
+### future simple
+- 形式will + do 不想过去一般，动词能直接变形，英文中动词没有将来式，所以这里使用了助动词will。
+- 含义是i think....i will。用于刚刚决定的事，比较随意。
+  *需要注意的是，一般将来时和由情态动词加动词原形的组成形式很像，请注意辨析*
+一般将来的另一种构成 shall
+- shall 一般用于第一人称。 shall I/we =Do you thingk this is a good thing to do? Do you think this is a good idea.
 
 
 ### tips
@@ -88,6 +96,15 @@ tips
 
 *当前是针对，现在一般，进行，完成。过去一般，进行，完成的总结*
 
+
+
+## 情态动词以及助动词（助动词，无实际意义仅用于构成语法。情态动词，有意义与动词原形一起构成谓语）
+
+### 助动词第一部分 be have do
+
+### 助动词第二部分  will shall should would
+这几个词一般用于助动词，但有时又有意义，接近于情态动词。
+### 情态动词 can could may might must（need,可做情态动词也可做实义动词，should 好像既可以做情态也能做助动词）
 
 
 
